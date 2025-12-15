@@ -1,4 +1,6 @@
 # MyOwnFace
+### 데모 영상: ![파이널+프로젝트_데모+영상](https://github.com/user-attachments/assets/e71e01f7-c02e-48ca-997a-db3eb339ac75)
+
 
 # 📌 MyOwnFace Frontend — Recommended Libraries Setup
 
